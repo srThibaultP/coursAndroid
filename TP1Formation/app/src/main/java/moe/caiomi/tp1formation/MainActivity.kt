@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
                 Log.i("LOGIN", "tu est admin")
                 Toast.makeText(this,"Connexion réussite", Toast.LENGTH_SHORT).show()
             } else {
-                Log.i("LOGIN", "tu est pas admin")
+                Log.i("LOGIN", "tu n'est pas admin")
             }
         }
     }
