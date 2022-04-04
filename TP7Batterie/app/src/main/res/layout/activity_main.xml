@@ -18,7 +18,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/arrow_down_float" />
+        app:srcCompat="@drawable/ic_baseline_battery_full_24" />
 
     <ImageView
         android:id="@+id/batteryUp"
@@ -32,5 +32,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/stat_sys_vp_phone_call" />
+        app:srcCompat="@drawable/ic_baseline_battery_charging_full_24" />
 </androidx.constraintlayout.widget.ConstraintLayout>
