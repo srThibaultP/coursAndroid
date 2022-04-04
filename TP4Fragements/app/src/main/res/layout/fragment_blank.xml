@@ -11,4 +11,10 @@
         android:layout_height="match_parent"
         android:text="@string/hello_blank_fragment" />
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:text="Switch" />
+
 </FrameLayout>

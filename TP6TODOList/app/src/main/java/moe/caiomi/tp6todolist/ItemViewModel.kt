@@ -1,4 +1,6 @@
 package moe.caiomi.tp6todolist
 
-class ItemViewModel {
+//data class ItemsViewModel(val image: Int, val text: String) {
+data class ItemsViewModel(val text: String) {
+
 }
